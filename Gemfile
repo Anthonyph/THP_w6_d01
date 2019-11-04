@@ -68,3 +68,7 @@ gem "faker", "~> 2.7"
 gem "better_errors", "~> 2.5"
 
 gem "bcrypt", "~> 3.1"
+
+gem "letter_opener", "~> 1.7"
+
+gem "dotenv-rails", "~> 2.7"
